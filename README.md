@@ -58,4 +58,6 @@ This project performs an Exploratory Data Analysis (EDA) on Airbnb booking data 
 3. Run all cells to reproduce the analysis and visualizations.
 
 ---
+## 📬 Contact
 
+Created by *Samrat Singh*  
