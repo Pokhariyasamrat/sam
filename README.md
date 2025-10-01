@@ -59,7 +59,3 @@ This project performs an Exploratory Data Analysis (EDA) on Airbnb booking data 
 
 ---
 
-## 📬 Contact
-
-Created by *Saurabh Sharma*  
-For queries, reach out via [LinkedIn](https://www.linkedin.com/in/saurabhsharma25/) or the project portfolio page: [View Project](https://www.datascienceportfol.io/saurabh_sharma/projects/3)
